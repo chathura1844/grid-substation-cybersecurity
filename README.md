@@ -12,7 +12,7 @@ The goal is to develop and demonstrate practical knowledge of security engineeri
 
 **Project status:** Architecture and security analysis documented. Hands-on substation simulation and technical validation are planned.
 
-![Electrical Substation Cybersecurity Architecture](substation-architecture.png)
+![Substation Cybersecurity Architecture](substation-architecture.png)
 
 *Conceptual substation security architecture for educational purposes. Not a validated deployment or formal IEC 62443 compliance design.*
 
